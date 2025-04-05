@@ -1,7 +1,5 @@
 # Bank App
 
-## Demo
-
 [Demo video here](https://www.loom.com/share/015c5cca602f40528c43d29b696d6128?sid=fe81ca87-c429-4574-8562-d46f196c1634)
 
 A simple Android banking application for educational purposes. The app demonstrates core Android development concepts including SQLite database integration, Google Maps API implementation, and multi-activity navigation.
